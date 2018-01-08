@@ -1,0 +1,16 @@
+.color-select {
+	width: 105px;
+	height: auto;
+	background: #fff;
+}
+
+.color-select p {
+	width: 30px;
+	height:30px;
+	background: gray;
+	display: inline-block;
+	margin: 0px;
+	float: left;
+	margin: 2px;
+	cursor: pointer
+}
