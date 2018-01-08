@@ -19,12 +19,12 @@ jQuery
 	```
     
 You can also set the data-colors attribute with javascript array of colors codes:
-	```
+```
 	<div id="swatchIt"></div>
 	var colors = ['#FF0000', 'green', '#0000FF', '#F1E05A', '#563D7C', '#4A0511'];
 	$('#swatchIt').data('colors', colors);
 	$('#swatchIt').swatchIt(); 
-	```
+```
 
 ## Credits
 JS by Jayant Kumar
