@@ -28,4 +28,5 @@ You can also set the data-colors attribute with javascript array of colors codes
 
 ## Credits
 JS by Jayant Kumar
+
 CSS by Kushal Kant
